@@ -3680,6 +3680,13 @@ input[type=button].btn-block {
   overflow: hidden;
   opacity: 0;
 }
+
+#headimg{
+  border-radius: 50%;
+  width: 10em;
+  height: 10em;
+}
+
 .custom-file-input:focus ~ .custom-file-label {
   border-color: #6bebd1;
   box-shadow: 0 0 0 0.2rem rgba(26, 188, 156, 0.25);
